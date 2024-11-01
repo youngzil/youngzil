@@ -1,4 +1,4 @@
-# Hi there 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Hi there 👋 <img src="https://github.com/youngzil/youngzil/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
 <img align="right" alt="PC GIF" src="https://github.com/youngzil/youngzil/blob/main/Assets/Developer.gif" width="190" />
 
@@ -27,4 +27,12 @@ you can follow my Github and Blog:
 <br>
 
 
+# Connect with me<img src="https://github.com/youngzil/youngzil/blob/main/Assets/Handshake.gif" height="32px">
 
+
+| [<img src="https://github.com/youngzil/youngzil/blob/main/Assets/github-icon.svg" alt="Github Logo" width="32">](mailto:youngzil@163.com) | [<img src="https://github.com/youngzil/youngzil/blob/main/Assets/Email.png" alt="Email logo" height="32">](mailto:youngzil@163.com) | [<img src="https://github.com/youngzil/youngzil/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:yangziliang2017@gmail.com)
+|:-:|:-:|:---:|
+
+
+<br>
+<br>
