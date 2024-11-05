@@ -7,11 +7,9 @@
 
 you can follow my Github and Blog:
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=youngzil&label=Profile%20views&color=3399FF&style=flat" alt="youngzil" />
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub Followers&labelColor=282c34&color=E5FFCC&query=$.data.totalSubs&url=https://api.spencerwoo.com/substats/?source=github&queryKey=youngzil&longCache=true"/>
+<p> <img src="https://komarev.com/ghpvc/?username=youngzil&label=Profile%20views&color=3399FF&style=flat" alt="youngzil" />
+<img alt="GitHub youngzil" src="https://img.shields.io/github/followers/youngzil?label=follow&style=social"/>
 </p>
-
-[![GitHub Thaiane](https://img.shields.io/github/followers/youngzil?label=follow&style=social)](https://github.com/youngzil)
 
 
 <br>
