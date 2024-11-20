@@ -5,12 +5,16 @@
 ### <img src="https://github.com/youngzil/youngzil/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/youngzil/youngzil/blob/main/Assets/Earth.gif" width="24px">
 
 
-you can follow my Github and Blog:
+### you can follow my Github and Blog:
 
-<p> <img src="https://komarev.com/ghpvc/?username=youngzil&label=Profile%20views&color=3399FF&style=flat" alt="youngzil" />
+<p> 
+ <a href="https://github.com/youngzil">
+ <img src="https://komarev.com/ghpvc/?username=youngzil&label=Profile%20views&color=3399FF&style=flat" alt="youngzil" />
+</a>
+  <a href="https://github.com/youngzil">
 <img alt="GitHub youngzil" src="https://img.shields.io/github/followers/youngzil?label=follow&style=social"/>
+   </a>
 </p>
-
 
 <br>
 
@@ -18,7 +22,7 @@ you can follow my Github and Blog:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=youngzil&show_icons=true&theme=dark&line_height=27" alt="youngzil's Github Stats"/>
 </a>
 
-<a href="https://github.com/TheDudeThatCode">
+<a href="https://github.com/youngzil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngzil&theme=dark&hide_langs_below=1" />
 </a>
 
